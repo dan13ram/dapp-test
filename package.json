@@ -1,0 +1,31 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "web3 test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan13ram/dapp-test.git"
+  },
+  "keywords": [
+    "dapp",
+    "web3",
+    "ethereum",
+    "solidity",
+    "js",
+    "node"
+  ],
+  "author": "dan13ram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan13ram/dapp-test/issues"
+  },
+  "homepage": "https://github.com/dan13ram/dapp-test#readme",
+  "dependencies": {
+    "ethereumjs-util": "^6.2.0",
+    "web3": "^1.2.6"
+  }
+}
