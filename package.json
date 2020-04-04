@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/dan13ram/dapp-test#readme",
   "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
     "ethereumjs-util": "^6.2.0",
     "web3": "^1.2.6"
   }
